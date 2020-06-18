@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    display: grid;
+    
+}
+.header {
+    width: 100%;
+    padding: 2px;
+    padding-top: 30px;
+    padding-left: 10px;
+    color: rgb(68, 67, 67);
+    font-size: 20px;
+    border-bottom: 2px solid rgb(32, 32, 32);
+    background-color: rgb(245, 240, 240);
+    box-shadow: 2px 2px 5px grey;
+}
+
+
+.slogan {
+    padding: 20px;
+    display: flex;
+    width: 75%;
+    font-size: 38px;
+    line-height: 1.5;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    color: rgb(32, 32, 32);
+
+
+}
+
+.header span {
+    color: rgb(163, 28, 28);
+    font-size: 24px;
+}
+
+.slogan span {
+    color: rgb(163, 28, 28);
+    font-size: 42px;
+}
