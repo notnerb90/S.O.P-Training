@@ -11,7 +11,7 @@
 .header {
     width: 100%;
     padding: 2px;
-    padding-top: 30px;
+    padding-top: 50px;
     padding-left: 10px;
     color: rgb(68, 67, 67);
     font-size: 20px;
@@ -28,7 +28,7 @@
     font-size: 38px;
     line-height: 1.5;
     padding-bottom: 40px;
-    padding-top: 40px;
+    padding-top: 50px;
     color: rgb(32, 32, 32);
 
 
